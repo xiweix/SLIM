@@ -7,26 +7,12 @@ Xiwei Xuan, Ziquan Deng, Hsuan-Tien Lin, and Kwan-Liu Ma
 </div>
 
 <div align="center">
-  <span style="display: inline-block;">
-    <a href="https://arxiv.org/abs/2407.05594">
-      <img src="https://img.shields.io/badge/arXiv-2407.05594-b31b1b" alt="arXiv">
-    </a>
-  </span>
-  <span style="display: inline-block;">
-    <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06273.pdf">
-      <img src="https://img.shields.io/badge/ECCV%202024-PDF-FACE27" alt="ECCV 2024 PDF">
-    </a>
-  </span>
-  <span style="display: inline-block;">
-    <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06273-supp.pdf">
-      <img src="https://img.shields.io/badge/ECCV%202024-Supp-7DCBFF" alt="ECCV 2024 Supp">
-    </a>
-  </span>
-  <span style="display: inline-block;">
-    <a href="#citation">
-      <img src="https://img.shields.io/badge/ECCV%202024-Bibtex-CB8CEA" alt="ECCV 2024 Bibtex">
-    </a>
-  </span>
+
+[![PWC](https://img.shields.io/badge/arXiv-2407.05594-b31b1b)](https://arxiv.org/abs/2407.05594)
+[![PWC](https://img.shields.io/badge/ECCV%202024-PDF-FACE27)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06273.pdf)
+[![PWC](https://img.shields.io/badge/ECCV%202024-Supp-7DCBFF)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06273-supp.pdf)
+[![PWC](https://img.shields.io/badge/ECCV%202024-Bibtex-CB8CEA)](#citation)
+
 </div>
 
 <a name="intro"></a>
