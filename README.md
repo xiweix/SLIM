@@ -111,9 +111,9 @@ After data curation, we can re-train the model and evaluate its performance with
 If you find our work useful, please cite it using the following BibTeX entry:
 
 ```bibtex
-@InProceedings{Xuan_2024_ECCV,
+@InProceedings{xuan2024slim,
 author = {Xuan, Xiwei and Deng, Ziquan and Lin, Hsuan-Tien and Ma, Kwan-Liu},
-title = {SLIM: Spuriousness Mitigation with Minimal Human Annotations},
+title = {{SLIM}: Spuriousness Mitigation with Minimal Human Annotations},
 booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
 month = {September},
 year = {2024}
